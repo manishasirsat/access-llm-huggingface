@@ -1,2 +1,3 @@
 # access-llm-huggingface
-How to access LLMs from hugging face?
+Learn how to use Hugging Face and to access LLMs (Large Language Model) from Huggingface.
+
